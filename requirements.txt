@@ -1,0 +1,5 @@
+Flask
+Werkzeug
+pyjwt
+python-dotenv
+requests
